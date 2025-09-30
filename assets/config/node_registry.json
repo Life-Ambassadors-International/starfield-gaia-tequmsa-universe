@@ -1,0 +1,9 @@
+[
+    {
+        "player_id": "AtenNode01",
+        "consent": true,
+        "ethics_approval": true,
+        "allowed_mods": ["starfield-gaia-unity", "elder-scrolls-chim"],
+        "qbec_wallet": "0xTEQUMSA..."
+    }
+]
